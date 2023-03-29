@@ -1,5 +1,6 @@
 # tssspammer
-A set of crappy shell scripts to spam TSS with requests to see which version is signed.
+A set of crappy shell scripts to spam TSS with requests to see if a given version is signed for a set of devices.
+Customize them to your devices if you want.
 
 iPhones, iPads, iPods: 
 - iOSarmv7: APL0298 to A6
