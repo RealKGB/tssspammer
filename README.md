@@ -11,5 +11,5 @@ iPhones, iPads, iPods:
 Everything else:
 - TVSoftware: Apple TV 2 and 3
 - tvaudioOS: Apple TV HD and HomePod mini
-- watchOSarmv7k: S0 to S3
+- watchOSarmv7k: S1 to S3
 - watchOSarm64e: S4 to S8
